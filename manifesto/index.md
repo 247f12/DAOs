@@ -3,9 +3,9 @@ layout: page
 title: Manifesto
 ---
 
-# Community D.A.O.s (Decentralised Autonomous Organisations)
+## Community Decentralised Autonomous Organisations (D.A.O.s)
 
-## Neighbourhood-level democracy without a central governing body
+### Neighbourhood-level democracy without a central governing body
 
 A  **D.A.O.** is a new way of organising which focuses on transparency, a bottom-up system of control, and lack of influence from central governments. Originally the term applied to online businesses where there is no boss or corporate management structure, only shareholders, each of whom have a say on how the business will operate, allocate funds for whatever the business does, and observe what the other shareholders are doing within the business.
 
