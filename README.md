@@ -24,16 +24,14 @@ Template site for community decentralised autonomous organisations. Use this tem
 - You can add blog posts by simply adding mardown files (.md) files into the **\_posts** folder.
 - File names for blog posts should be date followed by the title so that they appear in the right order, eg. **2020-07-03-nameofpost.md**.
 - Posts should always start with:
-	
-	\---
 
-	layout: post
-
-	title: Example Post Title
-
-	date: 2020-07-03
-
-	\---
+```
+---
+layout: post
+title: Example Post Title
+date: 2020-07-03
+---
+```
 
 - You then write your post in [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
 
@@ -48,13 +46,12 @@ Template site for community decentralised autonomous organisations. Use this tem
 - Create a folder in the root directory with the name of your page eg mypage.
 - Create a index.md file inside your new folder, with the following in it.
 
-	\---
-
-	layout: page
-
-	title: Example Page
-
-	\---
+```
+---
+layout: page
+title: Example Page
+---
+```
 
 - Any content you want on this page can be added below this header.
 
