@@ -11,7 +11,7 @@ Template site for community decentralised autonomous organisations. Use this tem
 	- Simply add this domain under custom domain in the GitHub Pages section of your repositories settings.
 	- You will then have to configure your domain provider to point to your new github pages site.
 
-## Making it your own
+## Editing the Template
 - All the code is yours to edit however there are some key things that you may want to change first.
 
 ### Home page
@@ -43,7 +43,7 @@ Template site for community decentralised autonomous organisations. Use this tem
 ### Resources
 - The resources page is stored in the resources folder, edit the **index.md** file within this folder to edit this page.
 
-## Create your own pages
+## Creating Your own Pages
 
 - Create a folder in the root directory with the name of your page eg mypage.
 - Create a index.md file inside your new folder, with the following in it.
@@ -76,7 +76,7 @@ Template site for community decentralised autonomous organisations. Use this tem
 ```
 
 - Above is the html for the navigation bar. to add your new page simply add another in the format
-```
+```html
 <li class="nav-item">
 	<a class="nav-link" href="{{ "/example" | relative_url }}">Template</a>
 </li>
