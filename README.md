@@ -1,6 +1,6 @@
 # Template site for Community DAOs
 
-Template site for community decentralised autonomous organisations. Use this template to set up your own website for your area.
+Template site for community decentralised autonomous organisations. Use this template to set up your own website for your area. You view a demo of the site [here](https://247f12.github.io/DAOs/)
 
 ## How do I make my own site?
 - Click the green button at the top of the repository that says "Use this template".
