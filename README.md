@@ -18,7 +18,7 @@ Template site for community decentralised autonomous organisations. Use this tem
 - You can edit this through **index.md** in the **root** directory.
 
 ### Manifesto
-- The manifesto page is stored in the manifesto folder, edit the **index.md** file within the manifesto folder to change this page.
+- The manifesto page is stored in the manifesto folder, edit the **index.md** file within this folder to edit this page.
 
 ### Blog/Updates posts
 - You can add blog posts by simply adding mardown files (.md) files into the **\_posts** folder.
@@ -41,7 +41,7 @@ Template site for community decentralised autonomous organisations. Use this tem
 - Blogging is powered by [jekyll](https://jekyllrb.com/), more information about that on their site.
 
 ### Resources
-- The manifesto page is stored in the manifesto folder, edit the **index.md** file within the manifesto folder to change this page.
+- The resources page is stored in the resources folder, edit the **index.md** file within this folder to edit this page.
 
 ## Create your own pages
 
